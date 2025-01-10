@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jinja2 = "*"
+"discord.py" = "*"
+flask = "*"
+bs4 = "*"
+requests = "*"
+beautifulsoup4 = "*"
+pandas = "*"
+nltk = "*"
+wordcloud = "*"
+matplotlib = "*"
+lxml = "*"
+python-dotenv = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

@@ -1,0 +1,119 @@
+
+Clase de Transporte: Privado
+   Tipo de Transporte: Uber
+Lugar recurrente: no
+Cantidad de luces: 18
+Clase de Transporte: Privado
+   Tipo de Transporte: Uber
+Lugar recurrente: no
+Cantidad de luces: 9
+Clase de Transporte: publico
+   Tipo de Transporte: autobus
+Clase de Transporte: publico
+   Tipo de Transporte: Taxi
+Clase de Transporte: publico
+   Tipo de Transporte: Taxi
+Lugar recurrente: si
+   Distancia: 18
+   Periodicidad: Diariamente
+       Días al mes: 9
+Cantidad de luces: 19
+Consumo Energético: 171.0 KW/h
+Clase de Transporte: publico
+   Tipo de Transporte: Taxi
+Lugar recurrente: no
+Cantidad de luces: 19
+Clase de Transporte: publico
+   Tipo de Transporte: Taxi
+Lugar recurrente: no
+Cantidad de luces: 19
+Clase de Transporte: publico
+   Tipo de Transporte: Taxi
+Lugar recurrente: no
+Cantidad de luces: 14
+Consumo Energético: 126.0 KW/h
+Clase de Transporte: privado
+   Tipo de Transporte: Automovil
+Lugar recurrente: si
+   Distancia: Diariamente
+   Periodicidad: Diariamente
+       Días al mes: ```🗓️ ¿Cuántos días al mes vas?
+(Solo introduce el número de días!)```
+Clase de Transporte: privado
+   Tipo de Transporte: Motocicleta
+Lugar recurrente: si
+   Distancia: 52
+   Periodicidad: Diariamente
+       Días al mes: 11
+Cantidad de luces: 8
+Consumo Energético: 72.0 KW/h
+Clase de Transporte: Privado
+   Tipo de Transporte: Uber
+Lugar recurrente: si
+   Distancia: 19
+   Periodicidad: mensualmente
+Cantidad de luces: 20
+Consumo Energético: 180.0 KW/h
+Clase de Transporte: privado
+   Tipo de Transporte: uber
+Lugar recurrente: no
+Cantidad de luces: 50
+Consumo Energético: 450.0 KW/h
+Clase de Transporte: Privado
+   Tipo de Transporte: ```🚗 ¿Qué tipo de transporte usas?
+
+Opciones:
+🚗 - Automóvil
+🏍️ - Motocicleta
+🚕 - Uber```
+Clase de Transporte: Privado
+   Tipo de Transporte: Uber
+Clase de Transporte: privado
+   Tipo de Transporte: Uber
+Lugar recurrente: no
+Cantidad de luces: 70
+Consumo Energético: 630.0 KW/h
+Clase de Transporte: ```🚗🚇 ¿Usas transporte público o privado?
+
+Opciones:
+🚌 - Público
+🚗 - Privado```
+Clase de Transporte: Privado
+   Tipo de Transporte: Autobus
+Lugar recurrente: no
+Cantidad de luces: 90
+Consumo Energético: 810.0 KW/h
+Clase de Transporte: Privado
+   Tipo de Transporte: Uber
+Lugar recurrente: no
+Cantidad de luces: 15
+Consumo Energético: 135.0 KW/h
+Clase de Transporte: Privado
+   Tipo de Transporte: Uber
+Lugar recurrente: no
+Cantidad de luces: 18
+Consumo Energético: 162.0 KW/h
+Clase de Transporte: Publico
+   Tipo de Transporte: Taxi
+Lugar recurrente: si
+   Distancia: 20
+   Periodicidad: Diariamente
+       Días al mes: 8
+Cantidad de luces: 18
+Consumo Energético: 162.0 KW/h
+Clase de Transporte: Publico
+   Tipo de Transporte: Metro
+Lugar recurrente: ```📍 ¿Vas a un lugar repetidas veces en el transporte?
+(Ejemplo: escuela, universidad, colegio, entre otros.)
+
+Opciones:
+✅ - Sí
+❌ - No```
+Clase de Transporte: Privado
+   Tipo de Transporte: Motocicleta
+Lugar recurrente: Si
+   Distancia: 21
+   Periodicidad: Semanalmente
+       Días a la semana: 5
+Cantidad de luces: 9
+Consumo Energético: 81.0 KW/h
